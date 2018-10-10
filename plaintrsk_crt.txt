@@ -1,0 +1,6 @@
+Cryptography is the conversion of information from a readable state to apparent nonsense.
+Just like what we are doing now. I am reading but you, you don’t see.
+Means, you don’t have access unless I give you the key.
+Actually, it looks fun and the limit crazy. Am I right or not?
+Then, this is my happiness in “Hardware security course” and I would be most grateful.
+Thanks Samer. 

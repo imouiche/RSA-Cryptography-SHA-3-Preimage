@@ -1,0 +1,11 @@
+Smart city lacks security as it depends mostly on the Internet of Things (IoT)
+protocols. This latter proves vulnerability as its architecture is not secure enough.
+But these small things are ubiquitous in human being lifetime, therefore the secret of 
+happiness of the attackers.
+Can a clean environment be achieved with the growth of Cognitive Radio Technology?
+Cryptography needs to do its best to serve our life. Waht we know is:
+
+" The art of war teaches us to rely not on the likelihood of the enemy's not coming, 
+but on our own readiness to receive him; not on the chance of his not attacking, 
+but rather on the fact that we have made our position unassailable".
+ Sun-Tzu: Art of War.
